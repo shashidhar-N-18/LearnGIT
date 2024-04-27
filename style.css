@@ -1,3 +1,7 @@
-p{
+p {
     color: blanchedalmond;
+}
+
+p:hover {
+    color: greenyellow;
 }
